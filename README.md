@@ -9,12 +9,12 @@ pip install -r /path/to/requirements.txt
 ```
 
 ### Usage
-1- If you test the application locally then run the server code in separate terminal  using the following command:
+1. If you test the application locally then run the server code in separate terminal  using the following command:
 ``` python
 python server3.py
 ```
-2- If you test the application with AWS please change the hostname and the port number. 
-3- Open the project in the virtual environment you created and run the following command:
+2. If you test the application with AWS please change the hostname and the port number. 
+3. Open the project in the virtual environment you created and run the following command:
 ``` python
 python main.py
 ```
